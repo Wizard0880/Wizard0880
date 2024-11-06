@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt = "Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 I’m currently working on [TheGarbageWallah](https://github.com/Wizard0880/TheGarbageWallah)
+- 🔭 I’m currently working on [YouTube-BackEnd](https://github.com/Wizard0880/YouTube-BackEnd)
 
 - 🌱 I’m currently learning **React.js Node.js**
 
-- 💬 Ask me about **Data Structure and Algorithms + React**
+- 💬 Ask me about **Data Structure and Algorithms + BackEnd with Express and Node**
 
 - 📫 How to reach me **suryanshkmdxt@gmail.com**
 
